@@ -244,8 +244,8 @@
 ## Wednesday, December 27, 2017
 ## Thursday, December 28, 2017
 ## Friday, December 29, 2017
-## Monday, December 1, 2017
-## Tuesday, December 2, 2017
-## Wednesday, December 3, 2017
-## Thursday, December 4, 2017
-## Friday, December 5, 2017
+## Monday, January 1, 2017
+## Tuesday, January 2, 2017
+## Wednesday, January 3, 2017
+## Thursday, January 4, 2017
+## Friday, January 5, 2017
