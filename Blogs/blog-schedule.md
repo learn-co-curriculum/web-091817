@@ -6,7 +6,6 @@
 + David Tannenbaum
 + Nicholas Hall
 + Laura Kim
-+ Kyle Andrews
 
 ## Thursday, September 28, 2017
 + Dylan Kershaw
@@ -15,6 +14,7 @@
 + Vijay Raju
 
 ## Friday, September 29, 2017
++ Kyle Andrews
 + Tim Eubank
 + Ramy Khorshed
 + Brooke Ryan
