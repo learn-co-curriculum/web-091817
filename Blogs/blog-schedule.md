@@ -45,7 +45,6 @@
 # Module 2
 
 ## Monday, October 9, 2017
-+ David Tannenbaum
 + Nicholas Hall
 + Laura Kim
 
@@ -62,7 +61,7 @@
 ## Thursday, October 12, 2017
 + Ramy Khorshed
 + Brooke Ryan
-
++ David Tannenbaum
 
 ## Friday, October 13, 2017
 
