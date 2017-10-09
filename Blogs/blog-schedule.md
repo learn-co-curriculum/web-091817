@@ -69,7 +69,7 @@
 
 ## Monday, October 16, 2017
 + Diego Dorado-Alvarado
-+ Luigi Pepe
++ Elbin Keeppanasseril
 + Joshua Denenberg
 
 ## Tuesday, October 17, 2017
@@ -123,7 +123,7 @@
 
 ## Monday, November 6, 2017
 + Diego Dorado-Alvarado
-+ Luigi Pepe
++ Elbin Keeppanasseril
 + Joshua Denenberg
 
 ## Tuesday, November 7, 2017
@@ -174,7 +174,7 @@
 
 ## Monday, November 27, 2017
 + Diego Dorado-Alvarado
-+ Luigi Pepe
++ Elbin Keeppanasseril
 + Joshua Denenberg
 
 ## Tuesday, November 28, 2017
@@ -218,7 +218,7 @@
 ## Wednesday, December 13, 2017
 + Brooke Ryan
 + Diego Dorado-Alvarado
-+ Luigi Pepe
++ Elbin Keeppanasseril
 + Joshua Denenberg
 
 ## Thursday, December 14, 2017
