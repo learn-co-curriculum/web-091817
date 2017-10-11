@@ -11,6 +11,6 @@
 |:---|:---|:---|:---|
 |10.09.17|Intro to Rack|[GitHub](https://github.com/learn-co-curriculum/intro-to-rack-web-091817)|[YouTube](http://youtu.be/OcB7PuTGVI8)|
 |10.10.17|MVC and Rest|[GitHub](https://github.com/learn-co-students/web-091817/tree/master/06-sinatra-rest)|[YouTube](https://youtu.be/PGaOyuTzPVI)|
-|10.11.17|Sinatra Complex Forms|||
+|10.11.17|Sinatra Complex Forms|[GitHub](https://github.com/learn-co-students/web-091817/tree/master/07-sinatra-complex-forms)|[YouTube](https://youtu.be/M5GGJxqHpR8)|
 |10.12.17|Sessions and Cookies|||
 |10.13.17|Intro to Rails|||
