@@ -99,7 +99,6 @@
 # Module 3
 
 ## Monday, October 30, 2017
-+ David Tannenbaum
 + Nicholas Hall
 + Laura Kim
 
@@ -153,7 +152,6 @@
 # Module 4
 
 ## Monday, November 20, 2017
-+ David Tannenbaum
 + Nicholas Hall
 + Laura Kim
 + Kyle Andrews
@@ -202,14 +200,13 @@
 # Module 5
 
 ## Monday, December 11, 2017
-+ David Tannenbaum
 + Nicholas Hall
 + Laura Kim
 + Kyle Andrews
 + Dylan Kershaw
++ Kenneth Jiang
 
 ## Tuesday, December 12, 2017
-+ Kenneth Jiang
 + Rebecca Newborn
 + Vijay Raju
 + Tim Eubank
