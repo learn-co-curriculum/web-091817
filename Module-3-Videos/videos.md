@@ -2,3 +2,4 @@
 1. [Welcome to JavaScript](http://youtu.be/LGo5x9nbhOw) | [Code](https://github.com/learn-co-curriculum/intro-js-web-091817)
 2. [Functions: Callbacks & closures](http://youtu.be/H3kDNF98REI) | [Practice Problems](https://gist.github.com/alexgriff/97cd3cc946f3047828c1196afd66ac61)
 3. [Functional Programming, Modules, IIFEs](https://www.youtube.com/watch?v=MrUxe0RIJao&feature=youtu.be) | [Code](https://github.com/learn-co-curriculum/intro-js-web-091817)
+4. [Function Context](http://youtu.be/71s2tfHjfLU) | [Code](https://github.com/learn-co-curriculum/js-function-context)
