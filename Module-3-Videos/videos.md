@@ -4,3 +4,4 @@
 3. [Functional Programming, Modules, IIFEs](https://www.youtube.com/watch?v=MrUxe0RIJao&feature=youtu.be) | [Code](https://github.com/learn-co-curriculum/intro-js-web-091817)
 4. [Function Context](http://youtu.be/71s2tfHjfLU) | [Code](https://github.com/learn-co-curriculum/js-function-context)
 5. [The DOM and Events](https://www.youtube.com/watch?v=FnR68pgnwjY&feature=youtu.be) | [The DOM Challenge](https://github.com/learn-co-curriculum/the-dom-challenge)
+6. [The DOM & OO](coimg soon) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-091817)
