@@ -5,3 +5,4 @@
 4. [Function Context](http://youtu.be/71s2tfHjfLU) | [Code](https://github.com/learn-co-curriculum/js-function-context)
 5. [The DOM and Events](https://www.youtube.com/watch?v=FnR68pgnwjY&feature=youtu.be) | [The DOM Challenge](https://github.com/learn-co-curriculum/the-dom-challenge)
 6. [Refactoring with OO](http://youtu.be/tPfLWa9VVsg) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-091817/tree/pre-ajax)
+7. [AJAX](http://youtu.be/Kzdp_OjtTy8) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-091817/tree/ajax)
