@@ -6,4 +6,4 @@
 5. [The DOM and Events](https://www.youtube.com/watch?v=FnR68pgnwjY&feature=youtu.be) | [The DOM Challenge](https://github.com/learn-co-curriculum/the-dom-challenge)
 6. [Refactoring with OO](http://youtu.be/tPfLWa9VVsg) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-091817/tree/pre-ajax)
 7. [AJAX](http://youtu.be/Kzdp_OjtTy8) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-091817/tree/ajax)
-8. Rails API pt i (video coming soon) | [Frontend Code](https://github.com/learn-co-curriculum/zoo-keepr-frontend/tree/web-091817) | [Backend Code](https://github.com/learn-co-curriculum/web-091817-zoo-keepr-backend)
+8. [Rails API pt i](http://youtu.be/7T89p_5B4bc) | [Frontend Code](https://github.com/learn-co-curriculum/zoo-keepr-frontend/tree/web-091817) | [Backend Code](https://github.com/learn-co-curriculum/web-091817-zoo-keepr-backend)
