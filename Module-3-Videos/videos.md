@@ -8,3 +8,5 @@
 7. [AJAX](http://youtu.be/Kzdp_OjtTy8) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-091817/tree/ajax)
 8. [Rails API pt i](http://youtu.be/7T89p_5B4bc) | [Frontend Code](https://github.com/learn-co-curriculum/zoo-keepr-frontend/tree/web-091817) | [Backend Code](https://github.com/learn-co-curriculum/web-091817-zoo-keepr-backend)
 9. [Rails API pt ii](http://youtu.be/Zj-SkQGicFk) | Same repos as above
+## CS
+1. [Recursion Workshop](https://www.youtube.com/watch?v=ExVY7UUMC9Q&feature=youtu.be)
