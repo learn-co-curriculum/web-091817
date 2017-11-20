@@ -181,15 +181,15 @@
 
 ## Tuesday, November 21, 2017
 
-* Dylan Kershaw
 * Kenneth Jiang
 * Rebecca Newborn
-* Vijay Raju
+* Ramy Khorshed
 
 ## Wednesday, November 22, 2017
 
+* Vijay Raju
+* Dylan Kershaw
 * Tim Eubank
-* Ramy Khorshed
 
 ## Thursday, November 23, 2017
 
