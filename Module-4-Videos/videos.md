@@ -10,5 +10,6 @@
 6. [React Router](http://youtu.be/WGgDYNfJu2c) | [Code](https://github.com/alexgriff/react-painting-example-crapp-app)
 7. [More React] video coming soon | [Frontend (dynamic-forms branch)](https://github.com/learn-co-curriculum/boozer-frontend-web-091817/tree/dynamic-form) | [Backend](https://github.com/alexgriff/boozer-api-web-0716/)
 8. [Auth pt 1](http://youtu.be/bcDJS60YBMs) | [Frontend (auth branch)](https://github.com/alexgriff/react-painting-example-crapp-app/tree/auth) | [Backend](https://github.com/alexgriff/painting-example-app-backend)
+9. [Auth pt 2](http://youtu.be/1PX7YTOw22s) | same repos
  
 
