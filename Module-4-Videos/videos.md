@@ -7,6 +7,7 @@
 3. [State and Forms](http://youtu.be/d1EUrKXg_Wg) | [Code](https://github.com/learn-co-curriculum/091817-state-examples)
 4. [More on State](http://youtu.be/OcJNHN-aMWU) | [Code (webpack branch)](https://github.com/learn-co-curriculum/091817-react/tree/webpack)
 5. [Component Lifecycle](http://youtu.be/KLvjZMpujVQ) | [Code (async branch)](https://github.com/learn-co-curriculum/091817-react/tree/async) | [componentWillReceivePropsExampleApp](https://github.com/learn-co-curriculum/componentWillReceivePropsExample)
-5. [React Router](http://youtu.be/WGgDYNfJu2c) | [Code](https://github.com/alexgriff/react-painting-example-crapp-app)
+6. [React Router](http://youtu.be/WGgDYNfJu2c) | [Code](https://github.com/alexgriff/react-painting-example-crapp-app)
+7. [Auth pt 1] video coming soon | [Frontend (auth branch)](https://github.com/alexgriff/react-painting-example-crapp-app/tree/auth) | [Backend](https://github.com/alexgriff/painting-example-app-backend)
  
 
