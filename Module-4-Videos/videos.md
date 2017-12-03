@@ -9,7 +9,8 @@
 5. [Component Lifecycle](http://youtu.be/KLvjZMpujVQ) | [Code (async branch)](https://github.com/learn-co-curriculum/091817-react/tree/async) | [componentWillReceivePropsExampleApp](https://github.com/learn-co-curriculum/componentWillReceivePropsExample)
 6. [React Router](http://youtu.be/WGgDYNfJu2c) | [Code](https://github.com/alexgriff/react-painting-example-crapp-app)
 7. [More React](https://www.youtube.com/watch?v=bcDJS60YBMs&feature=youtu.be) | [Frontend (dynamic-forms branch)](https://github.com/learn-co-curriculum/boozer-frontend-web-091817/tree/dynamic-form) | [Backend](https://github.com/alexgriff/boozer-api-web-0716/)
-8. [Auth pt 1] _problem with this recording, will upload alternate version. In the meantime, here is a [video from a previous cohort](https://www.youtube.com/watch?v=jR2otVSRSH4&feature=youtu.be) covering the same material_ | [Frontend (auth branch)](https://github.com/alexgriff/react-painting-example-crapp-app/tree/auth) | [Backend](https://github.com/alexgriff/painting-example-app-backend)
+8. [Auth pt 1](http://youtu.be/fBsvAm9dyHs) | [Frontend (auth branch)](https://github.com/alexgriff/react-painting-example-crapp-app/tree/auth) | [Backend](https://github.com/alexgriff/painting-example-app-backend)
+  * _^ There was a problem with this recording during lecture. I made a new video in which I summarize and re-build what we covered in lecture_
 9. [Auth pt 2](http://youtu.be/1PX7YTOw22s) | same repos
  
 
