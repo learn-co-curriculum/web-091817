@@ -12,5 +12,6 @@
 8. [Auth pt 1](http://youtu.be/fBsvAm9dyHs) | [Frontend (auth branch)](https://github.com/alexgriff/react-painting-example-crapp-app/tree/auth) | [Backend](https://github.com/alexgriff/painting-example-app-backend)
   * _^ There was a problem with this recording during lecture. I made a new video in which I summarize and re-build what we covered in lecture_
 9. [Auth pt 2](http://youtu.be/1PX7YTOw22s) | same repos
+10. HOCs (video coming soon) | [Code (hoc branch)](https://github.com/alexgriff/react-painting-example-crapp-app/tree/hoc)
  
 
