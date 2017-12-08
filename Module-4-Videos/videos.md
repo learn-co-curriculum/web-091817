@@ -17,5 +17,6 @@
 ## Redux
 
 1. [Intro to Redux](http://youtu.be/s5k_UoDI3Jg) | [Code](https://github.com/learn-co-curriculum/prep-for-redux/tree/lecture)
+2. [D.I.Y. `createStore` and `connect`](http://youtu.be/6pvdN8b3O5w) | _same repo as above_
  
 
