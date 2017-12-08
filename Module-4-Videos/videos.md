@@ -13,5 +13,9 @@
   * _^ There was a problem with this recording during lecture. I made a new video in which I summarize and re-build what we covered in lecture_
 9. [Auth pt 2](http://youtu.be/1PX7YTOw22s) | same repos
 10. [HOCs](http://youtu.be/uJs5vsg8xiY) | [Code (hoc branch)](https://github.com/alexgriff/react-painting-example-crapp-app/tree/hoc)
+
+## Redux
+
+1. [Intro to Redux](http://youtu.be/s5k_UoDI3Jg) | [Code](https://github.com/learn-co-curriculum/prep-for-redux/tree/lecture)
  
 
