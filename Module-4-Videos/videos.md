@@ -20,5 +20,6 @@
 2. [D.I.Y. `createStore` and `connect`](http://youtu.be/6pvdN8b3O5w) | _same repo as above_
 3. [Adding Features with Redux](http://youtu.be/QQKMMMj_D0s)
 4. [Redux Thunk](https://www.youtube.com/watch?v=i1y6H3P306w&feature=youtu.be) | [Code (lecture-091817 branch)](https://github.com/alexgriff/thurs-2-2)
+  * [Optional DIY Thunk Video](https://www.youtube.com/watch?v=smsOxL7mnzk&feature=youtu.be)
  
 
